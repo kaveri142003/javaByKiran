@@ -8,14 +8,15 @@ public class Even1 {
 		
 	
 	    a.acceptvalue(l);
-//	    a.DisplayValue(l);
+	    a.DisplayValue(l);
 //	    a.printEven(l);
 //        a.getSum(l);
 	    
 //	    a.product(l);
 
 //	    a.Reverse(l);
-	    a.OddElement(l);
+//	    a.OddElement(l);
+	    a.Cube(l);
 	}
 
 }

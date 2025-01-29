@@ -8,6 +8,7 @@ public class BubbleDemo {
 		b. acceptvalue(c);
 		b.DisplayValue(c);
 		b.bubblesortAsending(c);
+		b. bubblesortDescending (c);
 		b.DisplayValue(c);
 		
 			

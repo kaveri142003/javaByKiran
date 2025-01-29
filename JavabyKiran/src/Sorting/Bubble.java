@@ -31,5 +31,17 @@ public class Bubble {
 		}
 		
 	}
-
+	
+	public void bubblesortDescending(int i[]) {
+		for(int k = 0;k<i.length;k++) {
+			for(int j =k+1;j<i.length;j++) {
+				if (i[k]< i[j]){
+					int t = i[k];
+					i[k]=i[j];
+					i[j]=t;
+				}
+				
+			}
+		}
+	}
 }
