@@ -3,17 +3,17 @@ package Polymorphism;
 public class OverloadDemo {
 public static void main(String[] args) {
 	Overload b =  new Overload();
-	b.a(0);
-	b.a(null);
+	b.a(5);
+	b.a("chetan");
 	
 	b.d('A');
-	b.d("vaishnavi", 0);
+	b.d("vaishnavi", 5);
 	
-	b.e(0, 0);
+	b.e(3,49);
 	b.e("kaveri", 'a');
 	
-	b.f(0, "nishchal");
-	b.f('c', 0);
+	b.f(7, "nishchal");
+	b.f('c', 0.78);
 	
 	b.access(4);
 	b.access("Rushikesh");
