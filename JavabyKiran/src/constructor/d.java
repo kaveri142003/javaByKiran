@@ -7,16 +7,18 @@ public class d {
    static boolean b1=false;
    d e1 = new d();
    final static d e2=new d();
-   public void kk {
+   public void k1() {
 	   long h =100;
-	   final char ch='T';
-	   final d e2=new d ();
-	   String s = "orange";
-	   
-	   
+	    char ch='T';
+	    d d1 =new d ();
+	   String S = "orange";
+      
    }
-   public static void main(String[]args) {
-
-  
+   }
+	  
+	   
    
-}
+   
+     
+   
+
